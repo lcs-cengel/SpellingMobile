@@ -13,12 +13,12 @@
 //  the origional array (originonallist)
 //  what to filter on (desiredOutcome)
 
-// outpu (return type) : an array filtered based on outcome
+// outpu (return type) : an array results filtered based on outcome
 
 func filtering(
 origionalList: [Result],
 on desiredOutcome: Outcome
-) -> [Outcome] {
+) -> [Result] {
     // return an empty array
     return []
 }
